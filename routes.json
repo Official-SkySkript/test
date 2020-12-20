@@ -1,0 +1,122 @@
+{
+    "Home": "/",
+    "Contribute": "/contribute",
+    "Login": "/login",
+    "Partnerships": "/partnerships",
+    "Search": "/search",
+    "Sign Up": "/signup",
+    "Server Search": "/server-search",
+    "Plugins": {
+        "Recommended Plugins": "/plugins/recommended-plugins",
+        "Plugin List": "/plugins/plugin-list",
+        "Permission Plugins": {
+            "__dirroute__": "/plugins/permission-plugins",
+            "GroupManager": "/plugins/permission-plugins/groupmanager",
+            "LuckPerms": "/plugins/permission-plugins/luckperms",
+            "PermissionsEx": "/plugins/permission-plugins/permissionsex"
+        },
+        "Popular": {
+            "__dirroute__": "/plugins/popular",
+            "CoreProtect": "/plugins/popular/coreprotect",
+            "Essentials": "/plugins/popular/essentials",
+            "Multiverse": "/plugins/popular/multiverse",
+            "WorldEdit": "/plugins/popular/worldedit",
+            "WorldGuard": "/plugins/popular/worldguard"
+        },
+        "Other": {
+            "__dirroute__": "/plugins/other",
+            "CombatLogX": "/plugins/other/combatlogx",
+            "Dream's Man Hunt": "/plugins/other/dreams-man-hunt",
+            "ImageOnMap": "/plugins/other/imageonmap",
+            "MineResetLite": "/plugins/other/mineresetlite",
+            "RedProtect": "/plugins/other/redprotect"
+        }
+    },
+    "Popular Questions": {
+        "Panel": {
+            "__dirroute__": "/faq/panel",
+            "Backups": "/faq/panel/backups",
+            "Custom Seed": "/faq/panel/custom-seed",
+            "Datapacks": "/faq/panel/datapacks",
+            "Default Gamemode": "/faq/panel/default-gamemode",
+            "Default World": "/faq/panel/default-world",
+            "Domain": "/faq/panel/domain",
+            "Files": "/faq/panel/files",
+            "Flat World": "/faq/panel/flat-world",
+            "Logs": "/faq/panel/logs",
+            "Plugins": "/faq/panel/plugins",
+            "Rename": "/faq/panel/rename",
+            "Repair": "/faq/panel/repair",
+            "Reset Player": "/faq/panel/reset-player",
+            "Reset World": "/faq/panel/reset-world",
+            "Reset": "/faq/panel/reset",
+            "Resource Packs": "/faq/panel/resource-packs"
+        },
+        "Ingame": {
+            "__dirroute__": "/faq/ingame",
+            "Download": "/faq/ingame/download",
+            "Moderation": "/faq/ingame/moderation",
+            "Op": "/faq/ingame/op",
+            "Permissions": "/faq/ingame/permissions",
+            "Timings": "/faq/ingame/timings",
+            "Upload": "/faq/ingame/upload",
+            "Void World": "/faq/ingame/void-world",
+            "Whitelist": "/faq/ingame/whitelist",
+            "World Border": "/faq/ingame/world-border"
+        },
+        "Minehut": {
+            "__dirroute__": "/faq/minehut",
+            "A Full Tutorial": "/faq/minehut/a-full-tutorial",
+            "Account Deletion": "/faq/minehut/account-deletion",
+            "Account Linking": "/faq/minehut/account-linking",
+            "Appeal": "/faq/minehut/appeal",
+            "Bugs": "/faq/minehut/bugs",
+            "Clubs": "/faq/minehut/clubs",
+            "Cracked Clients": "/faq/minehut/cracked-clients",
+            "Disable Messages": "/faq/minehut/disable-messages",
+            "Joining": "/faq/minehut/joining",
+            "Ports": "/faq/minehut/ports",
+            "Reporting": "/faq/minehut/reporting",
+            "Voting": "/faq/minehut/voting"
+        },
+        "Other Questions": {
+            "__dirroute__": "/faq/other-questions",
+            "Bedrock": "/faq/other-questions/bedrock",
+            "Op Tools": "/faq/other-questions/op-tools",
+            "Server Version": "/faq/other-questions/server-version"
+        },
+        "Making A Server": {
+            "__dirroute__": "/faq/making-a-server",
+            "Planning It Out": "/faq/making-a-server/planning-it-out"
+        }
+    },
+    "Skript": {
+        "Basics": "/skript/basics",
+        "Addons": "/skript/addons",
+        "Commands": "/skript/commands",
+        "Comments": "/skript/comments",
+        "Events": "/skript/events",
+        "Formatting": "/skript/formatting",
+        "Functions": "/skript/functions",
+        "Indentation": "/skript/indentation",
+        "Syntax": "/skript/syntax",
+        "Variables": "/skript/variables",
+        "Examples": {
+            "__dirroute__": "/skript/examples",
+            "Bossbar": "/skript/examples/bossbar",
+            "Cooldown": "/skript/examples/cooldown",
+            "Custom Messages": "/skript/examples/custom-messages",
+            "Discord": "/skript/examples/discord",
+            "Format Chat": "/skript/examples/format-chat",
+            "Help": "/skript/examples/help",
+            "Homes": "/skript/examples/homes",
+            "Pagination": "/skript/examples/pagination",
+            "Private Messages": "/skript/examples/private-messages",
+            "Scoreboard": "/skript/examples/scoreboard",
+            "Sleep": "/skript/examples/sleep",
+            "Spawn": "/skript/examples/spawn",
+            "Tablist": "/skript/examples/tablist",
+            "Vixio": "/skript/examples/vixio"
+        }
+    }
+}

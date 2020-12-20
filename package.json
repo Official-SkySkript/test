@@ -1,0 +1,43 @@
+{
+	"name": "minehut-xyz",
+	"version": "1.0.0",
+	"private": true,
+	"engines": {
+		"node": "12"
+	},
+	"dependencies": {
+		"@babel/core": "^7.12.9",
+		"@material-ui/core": "latest",
+		"@material-ui/icons": "^4.9.1",
+		"@material-ui/lab": "^4.0.0-alpha.56",
+		"@mdx-js/loader": "^1.6.21",
+		"@mdx-js/react": "^1.6.21",
+		"@next/mdx": "^10.0.1",
+		"@react-firebase/auth": "^0.2.10",
+		"@svgr/core": "^5.5.0",
+		"@svgr/webpack": "^5.5.0",
+		"babel-plugin-import-glob-array": "^0.2.0",
+		"clsx": "latest",
+		"debounce": "^1.2.0",
+		"firebase": "^8.2.1",
+		"gray-matter": "^4.0.2",
+		"next": "latest",
+		"next-mdx-frontmatter": "0.0.3",
+		"prop-types": "latest",
+		"react": "latest",
+		"react-cookie": "^4.0.3",
+		"react-dom": "latest",
+		"react-scrollspy": "^3.4.3",
+		"react-syntax-highlighter": "^15.3.0"
+	},
+	"license": "MIT",
+	"scripts": {
+		"dev": "node buildRoutes.js && next",
+		"build": "node buildRoutes.js && next build",
+		"start": "next start -p $PORT",
+		"export": "next export"
+	},
+	"cacheDirectories": [
+		".next/cache"
+	]
+}
